@@ -1,0 +1,11 @@
+../EGver2/Graphics/Items/
+spr_grenadeNew_0    spr_grenadeNew_0.png    0 0
+spr_menu_star_0    spr_menu_star_0.png    0 0
+spr_bomb_heavy_0-sheet  	spr_bomb_heavy_0-sheet.png    0 1 3 1
+spr_bomb_light_0-sheet	 spr_bomb_light_0-sheet.png     0 1 3 1
+spr_bomb_medium_0-sheet 	   spr_bomb_medium_0-sheet.png  0 1 3 1
+spr_pickup_healthBig_0-sheet    spr_pickup_healthBig_0-sheet.png    0 1 2 1
+spr_pickup_heavy    spr_pickup_heavy.png    0 1 16 1
+spr_pickup_light_0-sheet    spr_pickup_light_0-sheet.png    0 1 16 1
+spr_pickup_medium_0-sheet    spr_pickup_medium_0-sheet.png    0 1 16 1
+spr_pickup_shield_0-sheet    spr_pickup_shield_0-sheet.png    0 1 2 1

@@ -1,0 +1,18 @@
+../EGver2/Graphics/Effects/
+spr_explosion_ground_0-sheet    spr_explosion_ground_0-sheet.png    0 1 3 1
+spr_grenade_exp_ground_0-sheet    spr_grenade_exp_ground_0-sheet.png    0 1 6 1
+spr_grenade_exp1_0-sheet    spr_grenade_exp1_0-sheet.png    0 1 11 1
+spr_grenade_exp2_0-sheet    spr_grenade_exp2_0-sheet.png    0 1 8 1
+spr_hit_heavy_0-sheet    spr_hit_heavy_0-sheet.png    0 1 6 1
+spr_hit_light_0-sheet    spr_hit_light_0-sheet.png    0 1 6 1
+spr_hit_medium_0-sheet    spr_hit_medium_0-sheet.png    0 1 6 1
+spr_shield_blue    spr_shield_blue.png    0 1 6 1
+spr_shield_boss    spr_shield_boss.png    0 1 6 1
+spr_shield_explosion_blue    spr_shield_explosion_blue.png    0 1 9 1
+spr_shield_explosion_red    spr_shield_explosion_red.png    0 1 9 1
+spr_shield_loop    spr_shield_loop.png    0 1 13 1
+spr_shield_up    spr_shield_up.png    0 1 10 1
+spr_shield_up_blue    spr_shield_up_blue.png    0 1 10 1
+spr_sprint_left    spr_sprint_left.png    0 1 6 0
+spr_sprint_right    spr_sprint_right.png    0 1 6 1
+spr_teleporter_fx    spr_teleporter_fx.png    0 1 17 1

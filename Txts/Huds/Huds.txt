@@ -1,0 +1,36 @@
+../EGver2/Graphics/Huds/
+ammo_bar ammo_bar.png 0 0
+crosshair_0 crosshair_0.png 0 0
+crosshair_1 crosshair_1.png 0 0
+crosshair_2 crosshair_2.png 0 0
+crosshair_3 crosshair_3.png 0 0
+crosshair_4 crosshari_4.png 0 0
+font_number_0 font_number_0.png 0 1 10 1
+icon_health icon_health.png 0 0
+now_roading now_roading.png 0 1 12 1
+pinky_0 pinky_0.png 0 0
+pinky_1 pinky_1.png 0 0
+pinky_2 pinky_2.png 0 0
+shield_icon shield_icon.png 0 0
+shieldstamina shieldstamina.png 0 0
+star_bar star_bar.png 0 0
+font_number_1 font_number_1.png 0 1 10 1
+font_number_2 font_number_2.png 0 1 10 1
+hpbar_0 hpbar_0.png 0 0
+hpbar_1 hpbar_1.png 0 0
+hpbar_2 hpbar_2.png 0 0
+shbar_0 shbar_0.png 0 0
+shbar_1 shbar_1.png 0 0
+shbar_2 shbar_2.png 0 0
+staminabar staminabar.png 0 0
+staminabar2 staminabar2.png 0 0
+staminabar3 staminabar3.png 0 0
+objecthp objecthp.png 0 0
+objecthpW objecthpW.png 0 0
+objecthpB objecthpB.png 0 0
+granade granade.png 0 0
+pistol pistol.png 0 0
+ammo_bar ammo_bar.png 0 0
+ammo_barB ammo_barB.png 0 0
+shotgun shotgun.png 0 0
+machinegun machinegun.png 0 0

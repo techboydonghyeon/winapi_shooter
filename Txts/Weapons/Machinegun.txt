@@ -1,0 +1,4 @@
+../EGver2/Graphics/Items/Weapons/machinegun/
+machinegun_0	machinegun_0.png	0 0
+machinegun_1	machinegun_1.png	0 0
+machinegun_2	machinegun_2.png	0 0

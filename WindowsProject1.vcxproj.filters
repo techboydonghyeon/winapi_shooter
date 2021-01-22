@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="_System">
+      <UniqueIdentifier>{4cc28309-2aae-459f-8786-ffd548f591ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_System\PCH">
+      <UniqueIdentifier>{6c573f68-d20e-4092-b268-f4bbc99eb2fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_System\Engine">
+      <UniqueIdentifier>{39a1c782-0773-431a-a426-988d929897ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_System\SystemInfo">
+      <UniqueIdentifier>{7b46d7c6-ebef-477f-baf3-72b9585123df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_System\Windows">
+      <UniqueIdentifier>{51b422ee-0d21-44e3-bae8-b31ca9e54be3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork">
+      <UniqueIdentifier>{4846db59-17e6-4118-a424-87176f4b0073}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Game">
+      <UniqueIdentifier>{e5be96ed-678e-4c19-9bb4-9cf70e7bfbef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Game\MainGame">
+      <UniqueIdentifier>{0de920c5-0b87-4f92-8715-66735ad3cd8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Manager">
+      <UniqueIdentifier>{17c659ae-2a42-40f9-98dd-b4b50c517c8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Manager\SceneManager">
+      <UniqueIdentifier>{2b61ab25-3eed-4449-8d8e-6fed2f21669f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Manager\ObjectManager">
+      <UniqueIdentifier>{83f0302e-6704-4268-aad9-604dc10dbb23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Manager\PhsyicsManager">
+      <UniqueIdentifier>{c8f0dde8-58cb-4166-9f3d-e03ac6620577}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Manager\RenderManager">
+      <UniqueIdentifier>{e7fa1957-638d-4398-b40b-02ac86ad450a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\ManagerInfo">
+      <UniqueIdentifier>{cf401843-6e81-4237-9187-a11fd60354eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_System\KeyInput">
+      <UniqueIdentifier>{d622cf53-eb1c-4c72-aaba-c7f42b101a8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Manager\ImageManager">
+      <UniqueIdentifier>{8f3f355a-60a9-4c64-a1b8-6fdda5e92921}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Header">
+      <UniqueIdentifier>{ab6ce03c-93a8-49e6-9e5f-c7a63c4cee9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Manager\DATA">
+      <UniqueIdentifier>{146221ca-e864-4f37-ae42-5e394d849585}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_System\Time">
+      <UniqueIdentifier>{9abf2f8f-5023-4051-87d1-38483ab5c39b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Object">
+      <UniqueIdentifier>{21bf9a19-6241-4393-ba51-043b476279d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Tile">
+      <UniqueIdentifier>{a7a25831-8685-4921-8d78-675fb590014c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_FrameWork\Management">
+      <UniqueIdentifier>{1fef2f63-fe36-4a29-8fd8-68cc511cf55b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{62ce2d47-1761-4946-a6dd-da068281e7e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Game\Camera">
+      <UniqueIdentifier>{223caa96-7494-4dcc-9cf2-3fd4a650197b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Game\성경theBible">
+      <UniqueIdentifier>{e58f2c2a-069a-40ae-b7dd-f65cda83ed52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Game\정섭theAlgoryrhm">
+      <UniqueIdentifier>{bfbfa8d9-83f4-45a0-8cfe-ba5da31566de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Game\우현theWooKil">
+      <UniqueIdentifier>{ce841411-ce21-4b72-8fae-d707fbe285bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Game\지웅theBarber">
+      <UniqueIdentifier>{f78fa43f-903d-4e54-99a6-c63cf7806ba9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Game\성경theBible\Item">
+      <UniqueIdentifier>{e27f7bfb-000b-4153-b155-6215c75ec46d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WinProc.h">
+      <Filter>_System\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInfo.h">
+      <Filter>_System\SystemInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>_System\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>_System\PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>_System\PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderM.h">
+      <Filter>_FrameWork\Manager\RenderManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectM.h">
+      <Filter>_FrameWork\Manager\ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="PhsyicsM.h">
+      <Filter>_FrameWork\Manager\PhsyicsManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneM.h">
+      <Filter>_FrameWork\Manager\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerInfo.h">
+      <Filter>_FrameWork\ManagerInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyInput.h">
+      <Filter>_System\KeyInput</Filter>
+    </ClInclude>
+    <ClInclude Include="GpImage.h">
+      <Filter>_FrameWork\Manager\ImageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="gpimageManager.h">
+      <Filter>_FrameWork\Manager\ImageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>_FrameWork\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerMacro.h">
+      <Filter>_FrameWork\ManagerInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="DATA.h">
+      <Filter>_FrameWork\Manager\DATA</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>_System\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>_FrameWork\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>_FrameWork\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>_Game\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Management.h">
+      <Filter>_FrameWork\Management</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectInfo.h">
+      <Filter>_FrameWork\Management</Filter>
+    </ClInclude>
+    <ClInclude Include="Useful.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>_Game\성경theBible</Filter>
+    </ClInclude>
+    <ClInclude Include="Pinky.h">
+      <Filter>_Game\성경theBible</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>_Game\정섭theAlgoryrhm</Filter>
+    </ClInclude>
+    <ClInclude Include="Kamikaze.h">
+      <Filter>_Game\정섭theAlgoryrhm</Filter>
+    </ClInclude>
+    <ClInclude Include="Turtle.h">
+      <Filter>_Game\정섭theAlgoryrhm</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>_Game\우현theWooKil</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>_Game\지웅theBarber</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>_Game\성경theBible</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>_Game\지웅theBarber</Filter>
+    </ClInclude>
+    <ClInclude Include="Gun.h">
+      <Filter>_Game\성경theBible\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>_Game\성경theBible\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="HealandShild.h">
+      <Filter>_Game\성경theBible\Item</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinProc.cpp">
+      <Filter>_System\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInfo.cpp">
+      <Filter>_System\SystemInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>_System\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>_System\PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderM.cpp">
+      <Filter>_FrameWork\Manager\RenderManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectM.cpp">
+      <Filter>_FrameWork\Manager\ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="PhsyicsM.cpp">
+      <Filter>_FrameWork\Manager\PhsyicsManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameFrame.cpp">
+      <Filter>_Game\MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneM.cpp">
+      <Filter>_FrameWork\Manager\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagerInfo.cpp">
+      <Filter>_FrameWork\ManagerInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyInput.cpp">
+      <Filter>_System\KeyInput</Filter>
+    </ClCompile>
+    <ClCompile Include="GpImage.cpp">
+      <Filter>_FrameWork\Manager\ImageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="gpimageManager.cpp">
+      <Filter>_FrameWork\Manager\ImageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="DATA.cpp">
+      <Filter>_FrameWork\Manager\DATA</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>_System\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>_FrameWork\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>_FrameWork\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>_Game\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>_Game\성경theBible</Filter>
+    </ClCompile>
+    <ClCompile Include="Pinky.cpp">
+      <Filter>_Game\성경theBible</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>_Game\정섭theAlgoryrhm</Filter>
+    </ClCompile>
+    <ClCompile Include="Kamikaze.cpp">
+      <Filter>_Game\정섭theAlgoryrhm</Filter>
+    </ClCompile>
+    <ClCompile Include="Turtle.cpp">
+      <Filter>_Game\정섭theAlgoryrhm</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>_Game\우현theWooKil</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>_Game\지웅theBarber</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>_Game\성경theBible</Filter>
+    </ClCompile>
+    <ClCompile Include="Struct.cpp">
+      <Filter>_Game\지웅theBarber</Filter>
+    </ClCompile>
+    <ClCompile Include="Gun.cpp">
+      <Filter>_Game\성경theBible\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>_Game\성경theBible\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="HealandShild.cpp">
+      <Filter>_Game\성경theBible\Item</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

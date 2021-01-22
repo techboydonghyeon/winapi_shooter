@@ -1,0 +1,4 @@
+../EGver2/Graphics/Struct/teleporter/
+spr_teleporter_0    spr_teleporter_0    0 0
+spr_teleporter_1    spr_teleporter_1    0 0
+spr_teleporter_spawn    spr_teleporter_spawn    0 1 11 1

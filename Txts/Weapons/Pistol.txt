@@ -1,0 +1,4 @@
+../EGver2/Graphics/Items/Weapons/pistol/
+pistol_0 pistol_0.png 0 0
+pistol_1 pistol_1.png 0 0
+pistol_2 pistol_2.png 0 0

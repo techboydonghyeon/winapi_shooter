@@ -1,0 +1,21 @@
+../EGver2/Graphics/Enemy/kamikaze/
+spr_kamikaze_attack_0-sheet    spr_kamikaze_attack_0-sheet.png    0 1 8 1
+spr_kamikaze_attack_0-sheet_left    spr_kamikaze_attack_0-sheet_left.png    0 1 8 0
+spr_kamikaze_dash_fx_0-sheet    spr_kamikaze_dash_fx_0-sheet.png    0 1 8 1
+spr_kamikaze_dash_fx_0-sheet_left    spr_kamikaze_dash_fx_0-sheet_left.png    0 1 8 0
+spr_kamikaze_death_0-sheet    spr_kamikaze_death_0-sheet.png    0 1 13 1
+spr_kamikaze_death_0-sheet_left    spr_kamikaze_death_0-sheet_left.png    0 1 13 0
+spr_kamikaze_death2_0-sheet    spr_kamikaze_death2_0-sheet.png    0 1 13 1
+spr_kamikaze_death2_0-sheet_left    spr_kamikaze_death2_0-sheet_left.png    0 1 13 0
+spr_kamikaze_death3_0-sheet    spr_kamikaze_death3_0-sheet.png    0 1 8 1
+spr_kamikaze_hit_0-sheet    spr_kamikaze_hit_0-sheet.png    0 1 2 1
+spr_kamikaze_hit_0-sheet_left    spr_kamikaze_hit_0-sheet_left.png    0 1 2 0
+spr_kamikaze_idle_0-sheet    spr_kamikaze_idle_0-sheet.png    0 1 16 1
+spr_kamikaze_idle_0-sheet_left    spr_kamikaze_idle_0-sheet_left.png    0 1 16 0
+spr_kamikaze_precision_1-sheet    spr_kamikaze_precision_1-sheet.png    0 1 7 1
+spr_kamikaze_precision2_0-sheet    spr_kamikaze_precision2_0-sheet.png    0 1 8 1
+spr_kamikaze_precision3_0-sheet    spr_kamikaze_precision3_0-sheet.png    0 1 8 1
+spr_kamikaze_walk_0-sheet    spr_kamikaze_walk_0-sheet.png    0 1 8 1
+spr_kamikaze_walk_0-sheet_left    spr_kamikaze_walk_0-sheet_left.png    0 1 8 0
+spr_knight_idle_down_0    spr_knight_idle_down_0.png    0 1 13 1
+spr_knight_idle_down_0_left    spr_knight_idle_down_0_left.png    0 1 13 0

@@ -1,0 +1,16 @@
+../EGver2/Graphics/Enemy/duck2/
+spr_duck2_dash    spr_duck2_dash.png    0 1 2 1
+spr_duck2_dash_left    spr_duck2_dash_left.png    0 1 2 0
+spr_duck2_death2_0-sheet    spr_duck2_death2_0-sheet.png    0 1 11 1
+spr_duck2_death2_0-sheet_left    spr_duck2_death2_0-sheet_left.png    0 1 11 0
+spr_duck2_death3_0-sheet    spr_duck2_death3_0-sheet.png    0 1 11 1
+spr_duck2_death3_0-sheet_left    spr_duck2_death3_0-sheet_left.png    0 1 11 0
+spr_duck2_hit    spr_duck2_hit.png    0 1 2 1
+spr_duck2_hit_0-sheet    spr_duck2_hit_0-sheet.png    0 1 2 1
+spr_duck2_hit_0-sheet_left    spr_duck2_hit_0-sheet_left.png    0 1 2 0
+spr_duck2_hit_left    spr_duck2_hit_left.png    0 1 2 0
+spr_duck2_idle_0-sheet    spr_duck2_idle_0-sheet.png    0 1 7 1
+spr_duck2_idle_0-sheet_left    spr_duck2_idle_0-sheet_left.png    0 1 7 0
+spr_duck2_walk_0-sheet    spr_duck2_walk_0-sheet.png    0 1 6 1
+spr_duck2_walk_0-sheet_left    spr_duck2_walk_0-sheet_left.png    0 1 6 0
+spr_duck2_weakspot_0    spr_duck2_weakspot_0.png    0 0

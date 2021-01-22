@@ -1,0 +1,4 @@
+../EGver2/Graphics/Items/Weapons/shotgun1/
+shotgun_0 shotgun_0.png 0 0
+shotgun_1 shotgun_1.png 0 0
+shotgun_2 shotgun_2.png 0 0

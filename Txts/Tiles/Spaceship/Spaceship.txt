@@ -1,0 +1,2 @@
+../EGver2/Graphics/Tiles/Spaceship/
+SpaceShip_Tile3 SpaceShip_Tile3.png 0 0

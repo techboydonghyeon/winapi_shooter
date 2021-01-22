@@ -1,0 +1,7 @@
+../EGver2/Graphics/bullet/
+spr_bullet    spr_bullet.png    0 1 2 1
+spr_bullet_blue    spr_bullet_blue.png    0 1 2 1
+spr_bullet_critical    spr_bullet_critical.png    0 1 2 1
+spr_bullet_plasma    spr_bullet_plasma.png    0 1 12 1
+spr_bullet_small    spr_bullet_small.png    0 1 2 1
+spr_bullet_stronger_0    spr_bullet_stronger_0.png    0 0

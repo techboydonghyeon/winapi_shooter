@@ -1,0 +1,2 @@
+../EGver2/Graphics/Struct/shop/
+spr_shop_0    spr_shop_0.png    0 0

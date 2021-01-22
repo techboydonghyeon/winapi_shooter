@@ -1,0 +1,4 @@
+../EGver2/Graphics/Struct/root2/
+spr_root2_0-sheet    spr_root2_0-sheet.png    0 1 3 1
+spr_root2_break_0-sheet    spr_root2_break_0-sheet.png    0 1 9 1
+spr_root2_hit_0-sheet    spr_root2_hit_0-sheet.png    0 1 3 1

@@ -1,0 +1,25 @@
+../EGver2/Graphics/Players/pinky/
+pinky_dash_left    pinky_dash_left.png    0 1 2  0
+pinky_dash_right   pinky_dash_right.png   0 1 2  1
+pinky_death_right  pinky_death_righ.png   0 1 11 1
+pinky_death_left   pinky_death_left.png   0 1 11 0
+pinky_dig_right    pinky_dig_right.png    0 1 3  1
+pinky_dig_left     pinky_dig_left.png     0 1 3  0
+pinky_hit_right    pinky_hit_right.png    0 1 2  1
+pinky_hit_left     pinky_hit_left.png     0 1 2  0
+pinky_holo_right   pinky_holo_right.png   0 1 27 1
+pinky_holo_left    pinky_holo_left.png    0 1 27 0
+pinky_idle_right   pinky_idle_right.png   0 1 9  1
+pinky_idle_left    pinky_idle_left.png    0 1 9  0
+pinky_melee_right  pinky_melee_right.png  0 1 7  1
+pinky_melee_left   pinky_melee_left.png   0 1 7  0
+pinky_sprint_right pinky_sprint_right.png 0 1 6  1
+pinky_sprint_left  pinky_sprint_left.png  0 1 6  0
+pinky_teleport_in_right pinky_teleport_in_right.png 0 1 8 1
+pinky_teleport_in_left pinky_teleport_in_left.png 0 1 8 0
+pinky_teleport_out_right pinky_teleport_out_right.png 0 1 8 1
+pinky_teleport_out_left pinky_teleport_out_left.png 0 1 8 0
+pinky_walk_right pinky_walk_right.png 0 1 6 1
+pinky_walk_left pinky_walk_left.png 0 1 6 0
+pinky_dashsfx_right pinky_dashsfx_right.png 0 0
+pinky_dashsfx_left pinky_dashsfx_left.png 0 0
